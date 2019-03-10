@@ -1,38 +1,38 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 220
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: Nerd Herd 
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
-##### `YOUR TWO SENTENCES HERE`  
+##### WE UNDERSTAND THAT UNDERPRIVELEGED STUDENTS ARE LESS LIKELY/INCLINED TO GO TO COLLEGE, AND THEIR ACADEMICS/TEST SCORES REFLECT THAT.
+##### WE WANT TO CREATE A TECH. PLATFORM THAT HELPS THEM SEE THEIR PROCESS AND STAY ON TRACK TO GRADUATE IN TIME/PERFORM WELL ENOUGH TO TRANSITION INTO A COLLEGE PROGRAM.
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### `YOUR DATASETS HERE`
-- ##### `YOUR DATASETS  HERE`
+- ##### SD UNIFIED SCHOOL DISTRICT GRAD RATE https://www.sandiegounified.org/newscenter/important-facts-about-district-graduation-rate
+- ##### 16-17 SAT SCORES SAN DIEGO UNIFIED https://data.inewsource.org/interactives/california-sat-scores-2016-17/
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: 1benhuynh5
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 07 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 08 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Benjamin Huynh      |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 |     Tri Le          |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 03 |    Jeff Luster      |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 04 |    Wendy de Leon    |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
+| 05 |  Adrian Fernandez |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 06 |    Tony Nguyen |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 07 |      Abigail Dabu  |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
+| 08 |   Roselynn Conrady |         [X]          |             [X]             |         [ ]          |                   [ ]                     |
 | 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
   
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
@@ -41,9 +41,9 @@
 - [ ] Your question:
 
 **Smart Education**
-- [ ] How can schools better utilize their physical resources?
+- [] How can schools better utilize their physical resources?
 - [ ] How to provide better school bus routing plan for San Diego Unified School Districts?
-- [ ] Your question:
+- [X] Your question: How can SD COUNTY SCHOOLS better allocate resources to serve under-privileged students and improve their GRADUATION RATE AND TIME? 
 
 **Smart Transportation**
 - [ ] How can San Diegans make better transportation decisions of getting from point A to Z that leaves a smaller carbon footprint?
